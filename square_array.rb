@@ -1,8 +1,12 @@
 
-def square_array(array)
-  new_array= []
+def square_array(number)
+  new_numbers= []
 
-new_array= array.each do |array|
+new_numbers= number.each do |number|
+
+
+ 
+  
  end
 
 
